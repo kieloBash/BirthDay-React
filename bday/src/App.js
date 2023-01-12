@@ -9,7 +9,7 @@ function App() {
     <main>
       <section>
         <div className='container'>
-          <h3>{people.length} Birthdays found</h3>
+          <h3>{people.length} birthdays found</h3>
           <List people={people}/>
           <button onClick={() => setPeople([])}>Clear All</button>
         </div>

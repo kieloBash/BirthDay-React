@@ -7,6 +7,12 @@ const Data = [
     },
     {
         id: 2,
+        name: 'Brent Allen Mercado',
+        age: 17,
+        image: 'https://images.pexels.com/photos/762527/pexels-photo-762527.jpeg',
+    },
+    {
+        id: 3,
         name: 'Klark Raizen Mercado',
         age: 15,
         image: 'https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg',
